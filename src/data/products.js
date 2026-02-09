@@ -24,6 +24,22 @@ export const products = [
     specs: { weight: '83g', balance: 'Head Heavy', flexibility: 'Stiff' }
   },
   {
+    id: 13,
+    name: 'Vợt Cầu Lông Yonex Astrox 100 ZZ',
+    category: 'badminton',
+    price: 4800000,
+    originalPrice: 5500000,
+    image: '/products/yonex-astrox-100zz.jpg',
+    brand: 'Yonex',
+    rating: 4.9,
+    reviews: 89,
+    stock: 10,
+    isNew: true,
+    isSale: true,
+    description: 'Yonex Astrox 100 ZZ - Vợt cầu lông đỉnh cao với công nghệ Rotational Generator System và Namd, mang lại lực đập cầu mạnh mẽ và kiểm soát tối ưu.',
+    specs: { weight: '83g', balance: 'Head Heavy', flexibility: 'Extra Stiff', material: 'HM Graphite + Namd + Tungsten' }
+  },
+  {
     id: 2,
     name: 'Vợt Cầu Lông Victor Thruster K 9900',
     category: 'badminton',
